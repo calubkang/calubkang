@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/194bKDjFAYM5WoCpcIR56y3A3kRBR1xzt/edit#](https://docs.google.com/document/d/194bKDjFAYM5WoCpcIR56y3A3kRBR1xzt/edit#)
 
-- ⚡ Fun fact **I wrote a nested if-else function before I knew what coding was**
+- ⚡ Fun fact **I wrote an algorithm at my current job that saved me hours of work before learning anything about coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
