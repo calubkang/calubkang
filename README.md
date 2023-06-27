@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **clbkang@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/194bKDjFAYM5WoCpcIR56y3A3kRBR1xzt/edit#](https://docs.google.com/document/d/194bKDjFAYM5WoCpcIR56y3A3kRBR1xzt/edit#)
-
 - ⚡ Fun fact **I wrote an algorithm at my current job that saved me hours of work before learning anything about coding**
 
 <h3 align="left">Connect with me:</h3>
