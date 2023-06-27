@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python, Ruby, C**
 
-- 👨‍💻 All of my projects are available at [https://calebkang.netlify.app/](https://calebkang.netlify.app/)
-
 - 💬 Ask me about **javascript, react, node**
 
 - 📫 How to reach me **clbkang@gmail.com**
